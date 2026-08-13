@@ -2,15 +2,35 @@
 
 ## Sobre mim
 
-Sou um **DES**complicador de software com foco em **PHP, Laravel, Docker, DevOps e Kubernetes**. Atuo também com Linux, bancos de dados, Azure DevOps, infraestrutura web, desenvolvimento mobile, integrações e automação de ambientes.
+Sou um **DES**complicador de software, com foco em **PHP, Laravel, GLPI, Docker, DevOps e Kubernetes**.
 
-Tenho experiência na construção e evolução de aplicações corporativas, da implementação backend à conteinerização, implantação, observabilidade e sustentação da infraestrutura.
+Atuo no desenvolvimento, evolução e sustentação de aplicações corporativas, participando de diferentes etapas do ciclo de vida do software: da implementação backend à conteinerização, implantação, observabilidade e manutenção da infraestrutura.
+
+Além disso, também trabalho com Linux, bancos de dados, Azure DevOps, infraestrutura web, desenvolvimento mobile, integrações, APIs e automação de ambientes, sempre buscando construir soluções mais **padronizadas, escaláveis, seguras e fáceis de manter**.
+
+Minha experiência combina **desenvolvimento de software e infraestrutura**, o que me permite atuar de forma integrada entre código, aplicações, ambientes e processos de entrega.
+
+Tenho interesse especial em arquitetura de software, automação, conteinerização, integração contínua e práticas que aproximam desenvolvimento e operações.
+
+> Minha proposta é simples: reduzir complexidade, automatizar o que pode ser automatizado e transformar desafios técnicos em soluções práticas e sustentáveis.
 
 <div>
   <a href="https://www.linkedin.com/in/mendescrafael" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D"></a>
   <a href="https://github.com/mendescrafael" target="_blank" rel="noopener noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
   <a href="https://www.youtube.com/@mendescrafael" target="_blank" rel="noopener noreferrer"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
   <a href="mailto:mendescrafael@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNy44OCAxMi4wNHEwIC40NS0uMTEuODctLjEuNDEtLjMzLjc0LS4yMi4zMy0uNTguNTItLjM3LjItLjg3LjJ0LS44NS0uMnEtLjM1LS4yMS0uNTctLjU1LS4yMi0uMzMtLjMzLS43NS0uMS0uNDItLjEtLjg2dC4xLS44N3EuMS0uNDMuMzQtLjc2LjIyLS4zNC41OS0uNTQuMzYtLjIuODctLjJ0Ljg2LjJxLjM1LjIxLjU3LjU1LjIyLjM0LjMxLjc3LjEuNDMuMS44OHpNMjQgMTJ2OS4zOHEwIC40Ni0uMzMuOC0uMzMuMzItLjguMzJINy4xM3EtLjQ2IDAtLjgtLjMzLS4zMi0uMzMtLjMyLS44VjE4SDFxLS40MSAwLS43LS4zLS4zLS4yOS0uMy0uN1Y3cTAtLjQxLjMtLjdRLjU4IDYgMSA2aDYuNVYyLjU1cTAtLjQ0LjMtLjc1LjMtLjMuNzUtLjNoMTIuOXEuNDQgMCAuNzUuMy4zLjMuMy43NVYxMC44NWwxLjI0LjcyaC4wMXEuMS4wNy4xOC4xOC4wNy4xMi4wNy4yNXptLTYtOC4yNXYzaDN2LTN6bTAgNC41djNoM3YtM3ptMCA0LjV2MS44M2wzLjA1LTEuODN6bS01LjI1LTl2M2gzLjc1di0zem0wIDQuNXYzaDMuNzV2LTN6bTAgNC41djIuMDNsMi40MSAxLjUgMS4zNC0uOHYtMi43M3pNOSAzLjc1VjZoMmwuMTMuMDEuMTIuMDR2LTIuM3pNNS45OCAxNS45OHEuOSAwIDEuNi0uMy43LS4zMiAxLjE5LS44Ni40OC0uNTUuNzMtMS4yOC4yNS0uNzQuMjUtMS42MSAwLS44My0uMjUtMS41NS0uMjQtLjcxLS43MS0xLjI0dC0xLjE1LS44M3EtLjY4LS4zLTEuNTUtLjMtLjkyIDAtMS42NC4zLS43MS4zLTEuMi44NS0uNS41NC0uNzUgMS4zLS4yNS43NC0uMjUgMS42MyAwIC44NS4yNiAxLjU2LjI2LjcyLjc0IDEuMjMuNDguNTIgMS4xNy44MS42OS4zIDEuNTYuM3pNNy41IDIxaDEyLjM5TDEyIDE2LjA4VjE3cTAgLjQxLS4zLjctLjI5LjMtLjcuM0g3LjV6bTE1LS4xM3YtNy4yNGwtNS45IDMuNTRaIi8%2BPC9zdmc%2B"></a>
+</div>
+
+## Estatísticas no GitHub
+
+<div align="center">
+  <img alt="Atividade e contribuições no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mendescrafael&amp;theme=transparent">
+  <br>
+  <img alt="Estatísticas gerais no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mendescrafael&amp;theme=transparent">
+  <img alt="Horário mais produtivo no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mendescrafael&amp;theme=transparent&amp;utcOffset=-3">
+  <br>
+  <img alt="Linguagens mais utilizadas por commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mendescrafael&amp;theme=transparent">
+  <img alt="Linguagens mais utilizadas por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mendescrafael&amp;theme=transparent">
 </div>
 
 ## Stack
@@ -125,71 +145,6 @@ Tenho experiência na construção e evolução de aplicações corporativas, da
     </td>
   </tr>
 </table>
-
-```text
-Backend
-├── PHP
-└── Ecossistema PHP
-    ├── Laravel
-    ├── Livewire
-    ├── Filament
-    ├── Inertia.js + Vue
-    ├── Symfony + API Platform
-    ├── Eloquent + Doctrine
-    ├── PHPUnit + Pest
-    ├── PHPStan + PHP CS Fixer
-    └── Composer
-
-GLPI
-├── Desenvolvimento de plugins
-├── Integrações
-├── Automações
-└── Correções de bugs
-
-Containers
-├── Docker
-└── Docker Compose
-
-DevOps
-├── Shell Script
-└── CI/CD
-
-Orquestração
-└── Kubernetes
-
-Banco de dados
-├── Relacionais
-│   ├── MySQL
-│   └── MariaDB
-└── NoSQL
-    ├── Firestore (Firebase)
-    └── DynamoDB (AWS)
-
-Azure Platform
-├── Azure DevOps
-├── Azure Repos
-└── Azure Boards
-
-OS
-└── Linux
-
-Web Servers
-├── Apache
-└── Nginx
-
-Mobile
-├── Flutter
-├── Dart
-├── Android
-└── iOS
-
-Outras tecnologias
-├── REST APIs
-├── JavaScript
-├── Twig
-├── Git
-└── GitHub
-```
 
 ## Desenvolvimento backend
 
